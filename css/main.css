@@ -1,0 +1,207 @@
+ 
+* {
+	font-family: 'Comfortaa', cursive !important;
+}
+
+ .parallax-container {
+      height: "100%;";
+    }
+
+ .mifoto {
+ 	width: 90%;
+ 	height: 50%;
+         }
+
+.loguito{
+	height: 5%;
+	width: 5%;
+	margin-left: 10%;
+	margin-top: 1%;
+}
+
+.nombre {
+	color: white;
+	margin-top: 15%;
+	margin-left: 30%;
+}
+#container {
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+}
+
+.giti {
+	width: 15%;
+	height: 15%;
+}
+
+.boo {
+	width: 15%;
+	height: 15%;
+}
+.mat {
+	width: 15%;
+	height: 15%;
+}
+
+.gm {
+	width: 55%;
+	height: 40%;
+	margin-left: 10%;
+}
+
+.was {
+	width: 55%;
+	height: 40%;
+	margin-left: 10%;
+}
+.ml {
+	margin-left: 30%;
+	margin-bottom: 10%;
+}
+
+h2{
+	margin-left: 20% !important;
+	margin-top: 5% !important;
+	margin-bottom: 10% !important;
+
+}
+.azul{
+	color: blue;
+}
+
+.blanco{
+	color: pink ;
+}
+
+.espacio{
+	margin-top: 20%;
+}
+
+.cv {
+	margin-left: 33%;
+}
+
+.iz{
+	margin-top: 6%;
+	margin-left: 10%;
+
+}
+
+.centrate {
+	margin-left: 5%;
+	margin-top: 10%;
+	font-size: 2em;
+	color:white;
+}
+
+.rosario {
+	margin-left: 15%;
+	margin-top: 15%;
+	font-size: 2.5em;
+	color: #ff6d00 ;
+}
+
+.altura {
+	height: 100%;
+}
+@media (max-width: 760px) {
+
+	.loguito{
+		width: 15%;
+		height: 15%;
+		margin-left: 40%;
+	}
+}
+
+
+
+
+
+
+@media (max-width: 600px) {
+	.loguito{
+		width: 20%;
+		height: 20%;
+		margin-top: 3%;
+		margin-left: 40%;
+	}
+	.nombre{
+		margin-top: 35%;
+		margin-left: 15%;
+	}
+	h2{
+		margin-left: 5% !important;
+		margin-bottom: 20% !important;
+		margin-top: 10% !important
+	}
+	.pro{
+		margin-left: 20% !important;
+		margin-top: 10% !important;
+		margin-bottom: 20% !important;
+	}
+	.qui{
+		margin-left: 25% !important;
+		margin-top: 10% !important;
+		margin-bottom: 20% !important;
+	}
+	.paar{
+		margin-left: 30% !important;
+		margin-top: 5% !important;
+		margin-bottom: 10% !important;
+	}
+	.html{
+		margin-left: 40% !important;
+	}
+	.boo{
+		width: 25%;
+		height: 25%;
+	}
+	.giti {
+		width: 23%;
+		height: 23%;
+	}
+	.mat {
+		width: 25%;
+		height: 25%;
+	}
+	.espacio {
+		margin-left: 30%;
+	}
+	.iz{
+		margin-top: 30% !important;
+		margin-left: 30% !important;
+		margin-bottom: 20% !important;
+	}
+	.bajar{
+		height: 150% !important;
+	}
+
+	.mifoto{
+		width: 70%;
+		margin-left: 15%
+	}
+	.habi{
+		margin-left: -3.5% !important;
+	}
+	.pro{
+		margin-left: -3% !important;
+	}
+	.spa {
+		margin-left: 10%;
+	}
+	.cv{
+		font-size: 1.5em;
+	}
+
+	.gm{
+		margin-left: 30% !important;
+	}
+	
+
+
+}
+
+#sidenav-overlay {
+	display: none;
+}
